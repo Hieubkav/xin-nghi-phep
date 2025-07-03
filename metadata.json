@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý tạo đơn xin nghỉ phép",
+  "description": "Một ứng dụng web thông minh sử dụng API Gemini để giúp người dùng tạo đơn xin nghỉ phép một cách chuyên nghiệp và nhanh chóng dựa trên thông tin được cung cấp.",
+  "requestFramePermissions": []
+}
