@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
 
     // Cấu hình cho GitHub Pages
     const isProduction = mode === 'production';
-    const base = isProduction ? '/trợ-lý-tạo-đơn-xin-nghỉ-phép/' : '/';
+    const base = isProduction ? '/xin-nghi-phep/' : '/';
 
     return {
       base,
